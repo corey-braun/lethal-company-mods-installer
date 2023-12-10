@@ -1,0 +1,13 @@
+{
+	"BepInEx": {
+		"URL": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip"
+	},
+	"MoreCompany": {
+		"URL": "https://thunderstore.io/package/download/notnotnotswipez/MoreCompany/1.7.1/",
+		"PluginDir": "BepInEx\\plugins"
+	},
+	"ShipLobby": {
+		"URL": "https://thunderstore.io/package/download/tinyhoot/ShipLobby/1.0.2/",
+		"PluginDir": "plugins"
+	}
+}
