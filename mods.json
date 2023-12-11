@@ -9,5 +9,9 @@
 	"ShipLobby": {
 		"URL": "https://thunderstore.io/package/download/tinyhoot/ShipLobby/1.0.2/",
 		"PluginDir": "plugins"
+	},
+	"ShipLoot": {
+		"URL": "https://thunderstore.io/package/download/tinyhoot/ShipLoot/1.0.0/",
+		"PluginDir": "plugins"
 	}
 }
